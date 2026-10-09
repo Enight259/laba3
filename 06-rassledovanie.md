@@ -4,5 +4,7 @@
 <img width="1166" height="376" alt="image" src="https://github.com/user-attachments/assets/4a9f3862-91f9-4188-a98f-94c64581e211" />
 <img width="1171" height="311" alt="image" src="https://github.com/user-attachments/assets/a7817fce-9823-4c11-a53e-9c6ef79cb7a5" />
 Процесс	PID	Владелец (USER)	Родитель (PPID)
+
+
 Самозванец kworker	3400	user	3062 (bash)
 Веб-сервер python3	3402	user	3062 (bash)
